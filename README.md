@@ -1,7 +1,7 @@
 
 # Projeto para criação de usuários e bloqueio de rotas com React.js, Node.js e mongoDB.
-# Sistema de gerenciamento da informação para arquivos físicos e digitais (ESPECIALMENTE PARA AS PGR -MA)
-# MPF (MINISTÉRIO PÚBLICO FEDERAL)
+# Sistema de gerenciamento da informação para arquivos físicos e digitais 
+
 Desenvolvi uma API para demonstrar de uma maneira simples sobre como o JWT é utilizado para criação de tokens, e como utilizar esses tokens para permitir acesso a rotas privadas com React.js.
 
 <b>Linguagens utilizadas:</b>
